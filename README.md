@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Aktana is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by norwest-venture-partners) and added to the network as a stub for full-pipeline profiling.
-- https://aktana.com
+PharmaForceIQ provides an HCP engagement platform that uses AI‑powered insights to coordinate digital and field marketing for pharmaceutical companies. The platform offers real‑time orchestration, signal‑driven optichannel launch, and live NPI‑level reporting to help commercial, HCP, DTC, medical affairs, and sales teams improve script lift and incremental revenue.
+
+**Areas:** Pharma Marketing · HCP Engagement · AI Insights · Omnichannel · Medical Affairs
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://aktana.com)
+- [Blog](https://www.aktana.com/blog/)
+- [Terms of service](https://www.aktana.com/terms/)
+- [Privacy policy](https://pharmaforceiq.com/privacy-policy/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/aktana-com/](https://apis.io/providers/aktana-com/).
